@@ -1,0 +1,417 @@
+IncidentState,IncidentCity,IncidentCityLat,IncidentCityLon
+Alabama,Birmingham,33.5206824,-86.8024326
+Alabama,Calera,33.1035045,-86.7505733
+Alabama,Indian Springs Village,33.3553882,-86.7544321
+Alabama,Mathews,32.2654206,-86.0038464
+Alabama,Montevallo,33.1006746,-86.8641558
+Alabama,Montgomery,32.3669656,-86.3006485
+Alabama,Pelham,33.285669,-86.8099884
+Alabama,Pike Road,32.2843084,-86.1030169
+Alaska,Anchorage,61.2163129,-149.894852
+Alaska,Homer,59.6440876,-151.540147
+Alaska,Kenai,60.560266,-151.20714472351614
+Alaska,Soldotna,60.4847228,-151.065349
+Arizona,Glendale,33.5386858,-112.185994
+Arizona,Litchfield Park,33.4933796,-112.358124
+Arizona,Mesa,33.4151005,-111.831455
+Arizona,Peoria,33.5806115,-112.237294
+Arizona,Waddell,33.5643025,-112.4447662
+Arkansas,Conway,35.2521996,-92.6888936
+Arkansas,Farmington,36.0420248,-94.2471515
+Arkansas,Fayetteville,36.0625843,-94.1574328
+Arkansas,McCrory,35.2561979,-91.2001246
+Arkansas,North Little Rock,34.769536,-92.2670941
+Arkansas,Van Buren,35.5759086,-92.4916144
+California,Alameda,37.6090291,-121.899142
+California,Antioch,38.0049214,-121.805789
+California,Aptos,36.9941295,-121.89033677231834
+California,Atascadero,35.4894169,-120.6707255
+California,Bakersfield,35.3738712,-119.019463
+California,Baldwin Park,34.0854739,-117.9611761
+California,Berkeley,37.8708393,-122.272863
+California,Blue Lake,40.882907,-123.983949
+California,Capitola,36.9762927,-121.954057
+California,Carlsbad,33.1580933,-117.3505966
+California,Carson,33.8322043,-118.2517547
+California,Castaic,34.4826899,-118.6307097
+California,Castro Valley,37.6945519,-122.0857432
+California,Chico,39.7284945,-121.8374777
+California,Concord,37.9768525,-122.0335624
+California,Cupertino,37.3228934,-122.0322895
+California,Davis,38.5435526,-121.739005
+California,Dublin,37.7021521,-121.9357918
+California,El Cerrito,33.8410146,-117.52079778811958
+California,Elk Grove,38.4087993,-121.3716178
+California,Escondido,33.1216751,-117.0814849
+California,Eureka,40.7906871,-124.1673746
+California,Fairfield,38.2493581,-122.039966
+California,Fortuna,40.597407,-124.156034
+California,Fremont,37.5482697,-121.988571
+California,Fresno,36.7394421,-119.78483
+California,Gardena,33.8815702,-118.2918113
+California,Grass Valley,39.2190607,-121.06292
+California,Hanford,36.3274502,-119.6456844
+California,Hayward,37.6688205,-122.080796
+California,Hesperia,34.4263886,-117.3008784
+California,Ione,38.3526913,-120.932717
+California,Jackson,38.3488024,-120.774101
+California,King City,36.2135325,-121.12864159269489
+California,Lincoln,38.8915741,-121.29318
+California,Linda,39.1187725,-121.55479136972532
+California,Livermore,37.6820583,-121.768053
+California,Los Angeles,34.0536909,-118.242766
+California,Madera,37.1716264,-119.7737991
+California,Magalia,39.8219895,-121.61065448657719
+California,Mammoth Lakes,37.6432525,-118.9668509
+California,Marysville,39.1457247,-121.5913516
+California,McKinleyville,40.966004999999996,-124.10278977452401
+California,Monte Rio,38.4662855,-123.0196176658942
+California,Morro Bay,35.3658075,-120.849901
+California,Mountain View,37.3893889,-122.0832101
+California,Newark,37.5296593,-122.0402399
+California,O'Neals,37.1282815,-119.6943135
+California,Oakhurst,37.333178000000004,-119.65724412283629
+California,Oakland,37.8044557,-122.271356
+California,Olivehurst,39.0953715,-121.5517753
+California,Orange,33.750631,-117.8722311
+California,Oroville,39.5137752,-121.556359
+California,Paso Robles,35.6262618,-120.6901319
+California,Piedmont,37.8243715,-122.231635
+California,Pioneer,38.4318551,-120.5718719
+California,Pismo Beach,35.1427436,-120.641288
+California,Pleasanton,37.6624312,-121.8746789
+California,Rancho Cordova,38.5890723,-121.302728
+California,Rancho Palos Verdes,33.7483311,-118.3707683
+California,Redding,40.5863563,-122.391675
+California,Redlands,34.0550328,-117.1827445
+California,Rohnert Park,38.3396367,-122.701098
+California,Roseville,38.7521235,-121.2880059
+California,Sacramento,38.5810606,-121.493895
+California,Salinas,36.6744117,-121.655037
+California,San Diego,32.7174202,-117.162772
+California,San Gabriel,34.0990995,-118.1085554
+California,San Jose,37.3361663,-121.890591
+California,San Leandro,37.7249296,-122.1560768
+California,San Lorenzo,37.673589500000006,-122.13185702134774
+California,Santa Clara,37.2333253,-121.6846349
+California,Santa Cruz,37.050096,-121.99059
+California,Santa Rosa,38.4404925,-122.7141049
+California,Sebastopol,38.4021038,-122.824222
+California,Selma,36.5707838,-119.6120765
+California,Smartsville,39.2073932,-121.2985701
+California,Soda Springs,39.0240651,-123.315841
+California,Soquel,36.992568000000006,-121.942859743031
+California,South Lake Tahoe,38.9332411,-119.9843482
+California,Suisun City,38.2382474,-122.040244
+California,Sutter Creek,38.3929675,-120.802435
+California,Tahoe City,39.1689372,-120.143478
+California,Tollhouse,37.0167898,-119.4004271
+California,Truckee,39.327962,-120.1832533
+California,Twentynine Palms,34.1356915,-116.0543506
+California,Union City,37.5872576,-122.0215737
+California,Vacaville,38.3565773,-121.9877444
+California,Vallejo,38.1040864,-122.2566367
+California,West Sacramento,38.5804609,-121.530234
+California,Wheatland,39.0098947,-121.423013
+California,Whitmore,40.629322,-121.9166612
+California,Woodland,38.6786109,-121.7733285
+California,Yucaipa,34.033625,-117.0430865
+Colorado,Arvada,39.8005505,-105.0811573
+Colorado,Aspen,39.1911128,-106.82356
+Colorado,Aurora,39.7405111,-104.830994
+Colorado,Boulder,40.0149856,-105.270545
+Colorado,Evergreen,39.6361637,-105.32145797867402
+Colorado,Fort Collins,40.5871782,-105.0770113
+Colorado,Golden,39.7546349,-105.22058
+Colorado,Grand Junction,39.0672568,-108.56448
+Colorado,Greeley,40.4233142,-104.7091322
+Colorado,Littleton,39.613321,-105.016649
+Colorado,Mountain Village,37.9313827,-107.856453
+Colorado,Palisade,39.1102587,-108.350919
+Colorado,Pueblo,38.263995,-104.6141867
+Colorado,Pueblo West,38.3229862,-104.741617
+Colorado,Telluride,37.9374939,-107.812285
+Colorado,Westminster,39.8366528,-105.0372046
+Colorado,Wheat Ridge,39.766098,-105.0772063
+Connecticut,Groton,41.3501598,-72.0761998
+Connecticut,Manchester,41.7813345,-72.5304550138903
+District of Columbia,Washington,38.8950368,-77.0365427
+Florida,Beverly Hills,28.9169245,-82.4581536
+Florida,Fountain,30.4788051,-85.4196476
+Florida,Inverness,28.8358176,-82.3303715
+Florida,Lithia,27.8580398,-82.16192700072409
+Florida,Lynn Haven,30.2454776,-85.648261
+Florida,Melbourne Beach,28.0684067,-80.5607951
+Florida,Merritt Island,28.2662775,-80.66369844594115
+Florida,Mexico Beach,29.9484826,-85.4193954
+Florida,Palm Bay,27.9946969,-80.6366144
+Florida,Panama City,30.1586518,-85.6602936
+Florida,Panama City Beach,30.1765914,-85.805386
+Florida,Port Charlotte,26.982419999999998,-82.10688734598534
+Florida,Punta Gorda,26.9351529,-82.0512058
+Florida,Riverview,27.871197,-82.3269883
+Florida,Southport,30.2893655,-85.6404834
+Florida,Tampa,27.9477595,-82.458444
+Florida,Tyndall Air Force Base,30.06911715,-85.57727553121528
+Florida,Youngstown,30.3643628,-85.4382568
+Georgia,Bloomingdale,32.1324249,-81.2990018
+Georgia,Calhoun,31.5311784,-84.614328
+Georgia,Garden City,32.1143715,-81.1540013
+Georgia,Pooler,32.1158983,-81.2495131
+Georgia,Port Wentworth,32.149092,-81.1631681
+Georgia,Savannah,32.0790074,-81.0921335
+Georgia,Thunderbolt,32.0335445,-81.0498342
+Georgia,Tybee Island,31.9987321,-80.8469427
+Kentucky,Hurstbourne Acres,38.2211812,-85.5891266
+Kentucky,Jeffersontown,38.1942356,-85.5644033
+Kentucky,Louisville,38.2542376,-85.759407
+Kentucky,Lyndon,38.2567376,-85.6016275
+Kentucky,Northfield,38.2870143,-85.6410725
+Kentucky,Plantation,38.2834033,-85.5910719
+Kentucky,Prospect,38.3459615,-85.60460479093771
+Kentucky,Saint Matthews,38.2528489,-85.6557947
+Maryland,Annapolis,38.9786401,-76.492786
+Maryland,Arnold,39.04229355,-76.50405904664146
+Maryland,Baltimore,39.2908816,-76.610759
+Maryland,Brooklyn Park,39.21986875,-76.61920607146598
+Maryland,Crofton,39.01595465,-76.68420565430054
+Maryland,Crownsville,39.0197327,-76.59026765175719
+Maryland,Davidsonville,38.9228697,-76.6277374
+Maryland,Deale,38.7918764,-76.54928589820895
+Maryland,Edgewater,38.9344805,-76.5575862
+Maryland,Gambrills,39.0948378,-76.6488265
+Maryland,Gibson Island,39.0781661,-76.4319041
+Maryland,Glen Burnie,39.1595439,-76.61515136556432
+Maryland,Hanover,39.1928853,-76.7241371
+Maryland,Harwood,39.3209067,-76.6112813
+Maryland,Jessup,39.147001450000005,-76.76991768022445
+Maryland,Laurel,39.0984317,-76.8485094
+Maryland,Linthicum Heights,39.2039094,-76.6597094
+Maryland,Millersville,39.0595542,-76.6480219
+Maryland,North Beach,38.7048801,-76.5331735
+Maryland,Odenton,39.065778800000004,-76.6876169120418
+Maryland,Pasadena,39.155815950000004,-76.55288309143504
+Maryland,Riva,38.9445795,-76.5882177744131
+Maryland,Severn,39.1354665,-76.70062377708201
+Maryland,Severna Park,39.08261925,-76.5719675597392
+Maryland,Shady Side,38.8417821,-76.5121798
+Maryland,West River,38.8503923,-76.5960728
+Massachusetts,Agawam,42.0688621,-72.6151604
+Massachusetts,Aquinnah,41.3431478,-70.8136792
+Massachusetts,Arlington,42.4153739,-71.1564428
+Massachusetts,Ashland,42.2606614,-71.4641337
+Massachusetts,Athol,42.594001,-72.2268141
+Massachusetts,Attleboro,41.9438129,-71.2806515
+Massachusetts,Auburn,42.1945465,-71.8358095
+Massachusetts,Barnstable,41.7004049,-70.3001922
+Massachusetts,Belchertown,42.2772732,-72.4007966
+Massachusetts,Beverly,42.5489744,-70.8781883
+Massachusetts,Billerica,42.5584264,-71.268947
+Massachusetts,Bourne,41.7412166,-70.5989196
+Massachusetts,Boxford,42.6625764,-70.9977456
+Massachusetts,Braintree,42.2205956,-71.0041229
+Massachusetts,Brimfield,42.1224026,-72.2003109
+Massachusetts,Brockton,42.0834335,-71.0183787
+Massachusetts,Brookline,42.3329021,-71.1187421
+Massachusetts,Burlington,42.5048167,-71.1956111
+Massachusetts,Cambridge,42.3656347,-71.1040018
+Massachusetts,Charlton,42.1340806,-71.9698085
+Massachusetts,Chelmsford,42.5968617,-71.3517602
+Massachusetts,Chelsea,42.3912241,-71.0369301
+Massachusetts,Chicopee,42.1487691,-72.6071119
+Massachusetts,Dartmouth,41.6332267,-70.9879928
+Massachusetts,Dedham,42.2489143,-71.1755732
+Massachusetts,Dennis,41.7353872,-70.1939087
+Massachusetts,Dracut,42.6687673,-71.3034107
+Massachusetts,Duxbury,42.0417695,-70.672259
+Massachusetts,East Longmeadow,42.064906,-72.5129296
+Massachusetts,Easthampton,42.2708804,-72.6719579
+Massachusetts,Easton,42.0245442,-71.1286594
+Massachusetts,Everett,42.4087228,-71.0539939
+Massachusetts,Fall River,41.7010642,-71.1546367
+Massachusetts,Falmouth,41.5514979,-70.6147519
+Massachusetts,Fitchburg,42.5854371,-71.8046023
+Massachusetts,Foxborough,42.0653768,-71.2478308
+Massachusetts,Framingham,42.2773177,-71.4165905
+Massachusetts,Freetown,41.7950262,-71.0676389
+Massachusetts,Gardner,42.5763523,-71.9952737
+Massachusetts,Gloucester,42.6153595,-70.6624608
+Massachusetts,Greenfield,42.5876342,-72.6002068
+Massachusetts,Hadley,42.3424147,-72.5892108
+Massachusetts,Hardwick,42.349309,-72.1992783
+Massachusetts,Haverhill,42.7777829,-71.0767724
+Massachusetts,Hingham,42.2417669,-70.8897676
+Massachusetts,Holbrook,42.1552232,-71.008958
+Massachusetts,Holden,42.3560836,-71.8623548
+Massachusetts,Holyoke,42.2071184,-72.6075851
+Massachusetts,Hubbardston,42.4765655,-72.0087197
+Massachusetts,Lawrence,42.7070354,-71.1631137
+Massachusetts,Lexington,42.4473175,-71.2245003
+Massachusetts,Longmeadow,42.0504498,-72.5824639
+Massachusetts,Lowell,42.6414437,-71.3085329
+Massachusetts,Lunenburg,42.595089,-71.7244812
+Massachusetts,Lynn,42.466763,-70.9494939
+Massachusetts,Lynnfield,42.5389836,-71.0481084
+Massachusetts,Mansfield,42.0334326,-71.2189405
+Massachusetts,Marblehead,42.500096,-70.8578253
+Massachusetts,Marlborough,42.3459271,-71.5522874
+Massachusetts,Marshfield,42.091769,-70.7055941
+Massachusetts,Medford,42.4184296,-71.1061639
+Massachusetts,Medway,42.1417641,-71.3967256
+Massachusetts,Melrose,42.4564323,-71.064182
+Massachusetts,Merrimac,42.8336778,-71.0024277
+Massachusetts,Methuen,42.7262016,-71.1908924
+Massachusetts,Middleton,42.5951005,-71.0159146
+Massachusetts,Milford,42.1428913,-71.5164618
+Massachusetts,Millis,42.1674963,-71.3572212
+Massachusetts,Milton,42.2501425,-71.065573
+Massachusetts,Needham,42.2802645,-71.2360624
+Massachusetts,New Bedford,41.6362152,-70.934205
+Massachusetts,Newton,42.3370414,-71.2092214
+Massachusetts,North Adams,42.6990349,-73.1118997
+Massachusetts,North Reading,42.5750939,-71.0786653
+Massachusetts,Norton,41.9667666,-71.1869939
+Massachusetts,Norwood,42.194543,-71.1994976
+Massachusetts,Oak Bluffs,41.4536222,-70.5684337
+Massachusetts,Palmer,42.1574489,-72.3299783
+Massachusetts,Peabody,42.5278731,-70.9286609
+Massachusetts,Pittsfield,42.4484778,-73.2541069
+Massachusetts,Plymouth,41.9426657,-70.7618592
+Massachusetts,Quincy,42.2509914,-71.0037374
+Massachusetts,Randolph,42.1626018,-71.0413386
+Massachusetts,Reading,42.5260297,-71.1020262
+Massachusetts,Revere,42.4084302,-71.0119948
+Massachusetts,Salem,42.5195292,-70.8967226
+Massachusetts,Salisbury,42.8417577,-70.8606083
+Massachusetts,Saugus,42.4648183,-71.010051
+Massachusetts,Scituate,42.1924492,-70.7261966
+Massachusetts,Shelburne Falls,42.6042515,-72.7392588
+Massachusetts,Somerset,41.7695463,-71.128656
+Massachusetts,Somerville,42.3875968,-71.0994968
+Massachusetts,South Hadley,42.2591392,-72.5751341
+Massachusetts,Springfield,42.1018764,-72.5886727
+Massachusetts,Tewksbury,42.6106479,-71.2342248
+Massachusetts,Tyngsborough,42.6761451,-71.4227726
+Massachusetts,Wakefield,42.506484,-71.0728306
+Massachusetts,Walpole,42.1459019,-71.2538759
+Massachusetts,Waltham,42.3756401,-71.2358004
+Massachusetts,Wareham,41.7626037,-70.7217017
+Massachusetts,Watertown,42.3652518,-71.1843236
+Massachusetts,Webster,42.0501373,-71.8803308
+Massachusetts,West Tisbury,41.381005,-70.6744926
+Massachusetts,Westfield,42.1205411,-72.7489158
+Massachusetts,Westport,41.6220399,-71.0780195
+Massachusetts,Wilbraham,42.1229193,-72.4314583
+Massachusetts,Winchester,42.4523178,-71.1369982
+Massachusetts,Woburn,42.4792618,-71.1522766
+Massachusetts,Worcester,42.2625621,-71.8018877
+Massachusetts,Yarmouth,41.7056656,-70.2286314
+Oklahoma,Ardmore,34.1729273,-97.1309119
+Oklahoma,Bethany,35.5186728,-97.6322648
+Oklahoma,Choctaw,34.0246234,-95.52055
+Oklahoma,Del City,35.442007,-97.4408709
+Oklahoma,Edmond,35.6571367,-97.4649038
+Oklahoma,Guthrie,35.8789231,-97.4252772
+Oklahoma,Harrah,35.4895085,-97.1636408
+Oklahoma,Midwest City,35.4495097,-97.3967025
+Oklahoma,Moore,35.3383254,-97.4867045
+Oklahoma,Nichols Hills,35.5508857,-97.5489318
+Oklahoma,Noble,36.4129621,-97.2681939
+Oklahoma,Norman,35.2225717,-97.4394816
+Oklahoma,Oklahoma City,35.4729886,-97.5170536
+Oklahoma,Spencer,35.5228433,-97.3772618
+Oklahoma,The Village,35.5658553,-97.5494185
+Oklahoma,Warr Acres,35.5225569,-97.6189353
+Tennessee,Ashland City,36.2742207,-87.0641699
+Tennessee,Brentwood,36.0325687,-86.7825235
+Tennessee,Goodlettsville,36.3231067,-86.7133302
+Tennessee,Mount Juliet,36.200055,-86.5186054
+Tennessee,Nashville,36.1622767,-86.7742984
+Tennessee,Nolensville,35.9522852,-86.6694413
+Vermont,Alburgh,44.9764203,-73.3003414
+Vermont,Barnard,43.7286349,-72.6188601
+Vermont,Barre,44.1969042,-72.5007458
+Vermont,Bethel,43.8325292,-72.6342101
+Vermont,Brighton,44.80232719999999,-71.87162301446706
+Vermont,Bristol,44.1332662,-73.0785227
+Vermont,Brookfield,44.0423475,-72.6036291
+Vermont,Burke,44.6178561,-71.92349565358407
+Vermont,Burlington,44.4761601,-73.212906
+Vermont,Castleton,43.6134645,-73.1712575
+Vermont,Charlotte,44.3105141,-73.2531419
+Vermont,Chester,43.2629706,-72.5945649
+Vermont,Colchester,44.534084,-73.1846098
+Vermont,Danville,44.411562,-72.1400382
+Vermont,Derby,44.93541675,-72.12028400505386
+Vermont,Dummerston,42.93244425,-72.58652717925446
+Vermont,East Haven,44.656168550000004,-71.82257755929047
+Vermont,Essex,44.5230418,-73.06227032277991
+Vermont,Fair Haven,43.5947898,-73.2659674
+Vermont,Fairfax,44.6652883,-73.0087203
+Vermont,Fairlee,43.906303,-72.147903
+Vermont,Greensboro,44.5760038,-72.2956806
+Vermont,Groton,44.2104648,-72.1955074
+Vermont,Guildhall,44.5647252,-71.560369
+Vermont,Guilford,42.8177217,-72.5752194
+Vermont,Hartford,43.665934,-72.38371107389389
+Vermont,Hartland,43.5408824,-72.3990809
+Vermont,Highgate,44.9626333,-73.07049380285743
+Vermont,Hinesburg,44.329251,-73.111267
+Vermont,Huntington,44.3251942,-72.9868075
+Vermont,Lowell,44.7993453,-72.447494
+Vermont,Ludlow,43.39771695,-72.6957387774716
+Vermont,Lunenburg,44.4631136,-71.6820321
+Vermont,Lyndon,44.5142226,-72.0109292
+Vermont,Maidstone,44.645072400000004,-71.6145532591119
+Vermont,Middlebury,44.014299,-73.167229
+Vermont,Montpelier,44.2602244,-72.5750364
+Vermont,Moretown,44.2509107,-72.7613
+Vermont,Morristown,44.5573065,-72.6245744
+Vermont,Mount Tabor,43.3505871,-72.9826037
+Vermont,New Haven,44.1244783,-73.1537566
+Vermont,Newfane,42.9855947,-72.6554243
+Vermont,Newport,44.9367172,-72.2055988
+Vermont,Pawlet,43.3534386,-73.2520005
+Vermont,Pittsford,43.70636,-73.0277504
+Vermont,Plymouth,43.5355839,-72.7217781
+Vermont,Poultney,43.5172045,-73.2363024
+Vermont,Proctor,43.6610327,-73.03532
+Vermont,Randolph,43.9253287,-72.6659422
+Vermont,Reading,43.500005650000006,-72.59291505134692
+Vermont,Readsboro,42.7718433,-72.9467908
+Vermont,Richmond,44.4052143,-72.9930745
+Vermont,Rutland,43.6084792,-72.9724768
+Vermont,Saint Albans City,44.8107911,-73.0833607
+Vermont,Saint Albans Town,44.80452715,-73.168578465099
+Vermont,Saint Johnsbury,44.419494,-72.0156532
+Vermont,Shaftsbury,42.9463184,-73.2107956
+Vermont,Sheffield,44.6020032,-72.1142013
+Vermont,Shelburne,44.3783486,-73.2276183
+Vermont,South Burlington,44.4671635,-73.1715669
+Vermont,Springfield,43.2988213,-72.4817747
+Vermont,Stowe,44.4643768,-72.6856197
+Vermont,Stratton,43.0428562,-72.9109334
+Vermont,Swanton,44.9181593,-73.1242364
+Vermont,Thetford,43.83575905,-72.25194159876418
+Vermont,Townshend,43.0462583,-72.6679825
+Vermont,Underhill,44.5072654,-72.9012112
+Vermont,Vergennes,44.1681052,-73.2518037
+Vermont,Vershire,43.9708211,-72.3248504
+Vermont,Waitsfield,44.1924801,-72.8223267
+Vermont,Walden,44.449781,-72.2233339
+Vermont,Washington,44.2690924,-72.6146505
+Vermont,Waterbury Center,44.3781114,-72.7159505
+Vermont,Weathersfield,43.39076205,-72.4713504795204
+Vermont,West Brattleboro,42.8559151,-72.6031466
+Vermont,West Windsor,43.48693285,-72.49146346799421
+Vermont,Westford,44.6119901,-73.0088889
+Vermont,Westmore,44.7711201,-72.0548723
+Vermont,Wheelock,44.5877555,-72.0834638
+Vermont,Williamstown,44.1224482,-72.5413894
+Vermont,Williston,44.4376099,-73.0682659
+Vermont,Wilmington,42.868519,-72.871024
+Vermont,Windham,43.1793702,-72.7258735
+Vermont,Windsor,43.4798875,-72.3866266
+Vermont,Wolcott,44.546609,-72.4578702
+Vermont,Woodbury,44.4413834,-72.4151253
+Vermont,Woodford,42.8803576,-73.0795486
